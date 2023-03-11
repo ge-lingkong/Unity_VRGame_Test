@@ -8,6 +8,6 @@ public class NewBall : MonoBehaviour
     public Transform point;
     public void newBall()
     {
-        Instantiate(ball, point.position, point.rotation,point);
+        Instantiate(ball, point.position, point.rotation, point);
     }
 }
