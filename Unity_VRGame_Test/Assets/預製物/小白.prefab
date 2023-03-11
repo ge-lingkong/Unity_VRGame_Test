@@ -285,9 +285,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8022390e5f439f8409bc9838edd6b91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballColor: {fileID: 0}
+  ballColor: {fileID: 4819194465688576615, guid: 47fe9aa90f494be4da65318534f24910, type: 3}
   ballEffect: {fileID: 0}
   ballSound: {fileID: 0}
+  colorAngle: {x: 0, y: -90, z: 0}
 --- !u!1 &3294470047132544261
 GameObject:
   m_ObjectHideFlags: 0
